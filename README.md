@@ -1,10 +1,10 @@
 # contador
 
-A new Flutter project.
+Contador Simples para contar pessoas que entraram e sairam de um estabelecimento
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Projeto simples para testar o Flutter com Android Studio
 
 A few resources to get you started if this is your first Flutter project:
 
